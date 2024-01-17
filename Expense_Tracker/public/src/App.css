@@ -1,0 +1,26 @@
+.App {
+  padding: 3rem;
+  background-color: #002133;
+
+  border: solid 1px red;
+}
+.ExpenseList {
+  border: solid 30px skyblue;
+  min-width: 100%;
+}
+
+.InputField {
+  border: solid 30px skyblue;
+  background-color: white;
+  min-width: 100%;
+}
+.BarGraph {
+  background-color: white;
+  border: solid 30px skyblue;
+  min-width: 100%;
+}
+.h1ex {
+  text-align: center;
+  color: White;
+  margin-bottom: 100px;
+}
